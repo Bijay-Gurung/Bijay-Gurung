@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bijay-Gurung.
+- 👋 Hi, I’m @Bijay-Gurung
 - 👀 I’m interested in Learning New Stuff
 - 🌱 I’m currently learning Game Development and Artificial Intelligence
 - 💞️ I’m looking to collaborate on Game Development
