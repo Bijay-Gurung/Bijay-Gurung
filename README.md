@@ -1,3 +1,4 @@
+https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=crt
 - 👋 Hi, I’m @Bijay-Gurung
 - 👀 I’m interested in Learning New Stuff
 - 🌱 I’m currently learning Game Development and Artificial Intelligence
