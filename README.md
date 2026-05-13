@@ -1,3 +1,9 @@
+<picture decoding="async" loading="lazy">
+  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Bijay-Gurung&theme=summer&v=1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=Bijay-Gurung&screen_effect=true&theme=black_chill&v=1">
+  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=Bijay-Gurung&theme=crt&v=1">
+</picture>
+
 - 👋 Hi, I’m @Bijay-Gurung
 - 👀 I’m interested in Learning New Stuff
 - 🌱 I’m currently learning Game Development and Artificial Intelligence
@@ -92,7 +98,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bijay-Gurung&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bijay-Gurung&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!---
